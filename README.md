@@ -10,3 +10,6 @@ Objective 3: Run this application as spring boot project(com.talking.clock.Talki
 API Endpoint:
 GET Endpoint http://localhost:8080/HumanFriendlyTextByCurrentTime/time?time=13:15
 API java class com.talking.clock.HumanFriendlyTextByTimeAPI
+
+Test Class:
+com.talking.clock.TimeUtilBusinessTest
